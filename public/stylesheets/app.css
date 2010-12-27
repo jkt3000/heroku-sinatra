@@ -1,0 +1,16 @@
+/**********************************
+ * App CSS
+ **********************************/
+
+/* simple reset */
+* { margin:0; padding:0; font-size:100%;}
+ol, li { list-style:none; }
+table { border-collapse:collapse; border-spacing:0; }
+* html .clearfix{ height: 1%; overflow: visible; }                                     /* float clearing for IE6 */
+*+html .clearfix{ min-height: 1%; }                                                    /* float clearing for IE7 */
+.clearfix:after{ clear:both; content:"."; display:block; height:0; visibility:hidden;} /* float clearing for everyone else */
+
+body { font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;}
+
+
+

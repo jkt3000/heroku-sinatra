@@ -1,0 +1,8 @@
+db/*.sqlite3
+log/*.log
+.DS_Store
+.bundle
+tmp/**/*
+config/shopify.yml
+vendor/bundler_gems
+TODO.txt
